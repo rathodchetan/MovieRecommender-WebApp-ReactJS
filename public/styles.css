@@ -1,0 +1,28 @@
+* {
+    background-color: black;
+}
+
+.button {
+    background-color: blue;
+}
+
+.recommend {
+    color: white;
+    padding: 50px auto;
+}
+
+.movieCard {
+    text-align: center;
+    margin-left: 100px;
+    /* margin-right: 100px; */
+    display: inline-block;
+}
+
+.input {
+    background-color: darkslategray;
+}
+
+.poster {
+    height: 200px;
+    /* width: 100px; */
+}
